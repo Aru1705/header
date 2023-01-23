@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: blue;
+    width: 100%;
+    height: 90px;
+    position: relative;
+}
+.nav{
+    background-color:crimson;
+    width: 98%;
+    height: 73px;
+    position: absolute;
+    top: 8px;
+    left: 15px;
+}
+#logo{
+    background-color: yellow;
+    width: 80px;
+    height: 60px;
+    position: absolute;
+    top: 14px;
+    left: 25px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+
+}
+#nav_links{
+    background-color: white;
+    width: 45%;
+    height: 63%;
+    position: absolute;
+    margin-left: 53%;
+    top: 15px;
+}
+
